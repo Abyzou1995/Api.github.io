@@ -26,4 +26,4 @@ unicode==2.9
 uvicorn==0.22.0
 watchfiles==0.19.0
 websockets==11.0.3
-Werkzeug==2.3.4
+Werkzeug==2.2.2
